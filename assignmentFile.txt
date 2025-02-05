@@ -1,0 +1,3 @@
+Uriel Martinez - Computer Science Principles
+This is a file created for the class assignment
+This will be uploaded to GitHub servers via GitHub Desktop
