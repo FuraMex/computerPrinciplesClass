@@ -1,2 +1,2 @@
 Uriel Martinez - Computer Science Principles
-This Course will be talking about aspects of computer science such as GitHub or how computers work. Readings will help us further understand the course material.
+This Course will be talking about basic aspect of computer science such as learning about GitHub in this assignment
