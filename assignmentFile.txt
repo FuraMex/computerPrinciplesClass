@@ -1,3 +1,2 @@
 Uriel Martinez - Computer Science Principles
-This is a file created for the class assignment
-This will be uploaded to GitHub servers via GitHub Desktop
+This Course will be talking about aspects of computer science such as GitHub or how computers work. Readings will help us further understand the course material.
